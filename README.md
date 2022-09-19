@@ -8,10 +8,6 @@ A watchlist built with PHP and MySQL to keep track of all the movies I still wan
 PHP 5.3 or higher recommended
 MySQL DB
 
-## Login Details
-User: Lisa
-Password: Lustig
-
 ## Main Features
 Login/Logout: The list can only be updated after login
 CRUD functionalities: Allows the user to create, read, update and delete the movies and single details of the movies in a managed format
