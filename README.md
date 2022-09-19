@@ -1,4 +1,4 @@
-### College-Notes-Gallery
+# College-Notes-Gallery
 A watchlist built with PHP and MySQL to keep track of all the movies I still want to watch.
 
 ## Demo
